@@ -6,7 +6,7 @@ import ContentPage from './pages/ContentPage'
 
 
 
-const App = () => {
+const Main = () => {
   return (
     <>
     <ul>
@@ -24,4 +24,4 @@ const App = () => {
   )
 }
 
-export default App
+export default Main
